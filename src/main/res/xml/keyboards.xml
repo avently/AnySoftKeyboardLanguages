@@ -72,4 +72,15 @@
 	defaultDictionaryLocale="ru"
 	index="6"/>
 
+	<Keyboard
+	id="e36b0290-dba4-11e7-8f1a-0800200c9a66"
+	nameResId="@string/russian_compact_qwerty"
+	layoutResId="@xml/russian_compact_qwerty"
+	landscapeResId="@xml/russian_qwerty"
+	physicalKeyboardMappingResId="@xml/ru_physical"
+	iconResId="ru"
+	defaultDictionaryLocale="ru"
+	description="Сделал avently"
+	index="7"/>
+
 </Keyboards>
